@@ -1,6 +1,6 @@
 äpfel
 birnen
-bananen
+banane
 bier
 leberkaas
 wurst
@@ -10,4 +10,6 @@ pizza
 sommerspritzer
 döner
 orangen
-
+pizza
+kekse
+lebkuchen
